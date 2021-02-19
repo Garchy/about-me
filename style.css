@@ -1,6 +1,6 @@
 
 body{
-    background-image: url(fundo-preto.jpg);
+    background-image: url('fundo-preto.jpg');
     background-size: cover;
 }
 
